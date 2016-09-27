@@ -1,1 +1,2 @@
-I used zurb foundation to make this home page.
+Open the website on local host. 
+zurb foundation
